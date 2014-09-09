@@ -20,9 +20,9 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"GitGutter",
-		"Anaconda",
-		"Monokai Extended",
+		//"GitGutter",
+		//"Anaconda",
+		//"Monokai Extended",
 		"Vintage"
 	],
 	"indent_guide_options":
